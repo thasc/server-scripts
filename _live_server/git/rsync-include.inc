@@ -6,6 +6,9 @@
 + .git/logs/
 + .git/logs/HEAD
 
++ maps/
++ maps/**
+
 + nano/
 + nano/**
 
